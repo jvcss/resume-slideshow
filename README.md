@@ -1,13 +1,15 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# My Learning Journey Telled in Slides
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+Welcome to **jvcss's** repository I'm glad seeing you here. In [this](https://jvcss.github.io/github-slideshow/#/) site you will find a briaf history about myself. 
 
 Oh! I haven't introduced myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+"I am the one who knocks" :bald_man: I'm the one who's passionate for contribute to an wolrd more inclusive and connected where people like you and me can improve the way the world is letter by letter. Bots, clones, sheeps, whatever we want is built here!
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+The sky is the limit! And I'm here to help you and be helped. Feel free to call me brother and let's conquere this world togheter. I will be using Issue and Pull Request comments to communicate with you.
+
+[![issue tab](https://lab.github.com/public/images/issue_tab.png)](https://github.com/jvcss/github-slideshow/issues)
 
 I'll meet you over there, can't wait to get started!
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+This site is built using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/).
