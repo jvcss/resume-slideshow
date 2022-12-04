@@ -8,7 +8,7 @@ Oh! I haven't introduced myself...
 
 The sky is the limit! And I'm here to help you and be helped. Feel free to call me brother and let's conquere this world togheter. I will be using Issue and Pull Request comments to communicate with you.
 
-[![issue tab](https://lab.github.com/public/images/issue_tab.png)](https://github.com/jvcss/github-slideshow/issues)
+[![issue tab](https://img.shields.io/github/issues-raw/jvcss/resume-slideshow?color=blue&logoColor=true&style=flat-square)](https://github.com/jvcss/github-slideshow/issues)
 
 I'll meet you over there, can't wait to get started!
 
